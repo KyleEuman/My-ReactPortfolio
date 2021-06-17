@@ -1,6 +1,6 @@
-/* eslint-disable no-undef */
 /* eslint-disable no-unused-vars */
 import  React, {useEffect, useState} from 'react';
+import project from '../../portfolio/schemas/project.js';
 import sanityClient from "../client.js";
 
 export default function Project() {
